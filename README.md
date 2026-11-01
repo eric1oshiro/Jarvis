@@ -1,6 +1,6 @@
 # Assistente Virtual por Voz
 
-Um assistente de voz em Python feito para portfólio: escuta o microfone, usa **ElevenLabs Scribe** para transcrever, **Claude** para elaborar uma resposta contextual e **ElevenLabs TTS** para responder em voz natural. A conversa continua até você dizer “tchau” ou “encerrar”.
+Um assistente de voz em Python feito para portfólio: escuta o microfone, usa **ElevenLabs Scribe** para transcrever, **Claude** para elaborar uma resposta contextual e **ElevenLabs TTS** para responder em voz do JARVIS do Homem de Ferro. A conversa continua até você dizer “tchau” ou “encerrar”.
 
 > As respostas foram pensadas para fala: curtas, naturais e configuráveis pelo `SYSTEM_PROMPT`.
 
